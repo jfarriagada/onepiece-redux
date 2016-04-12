@@ -1,0 +1,21 @@
+.hello {
+  border: 5px solid purple;
+}
+.bandtable{
+  width: 300px;
+  border: 5px solid blue;
+}
+  /*background-color: green;*/
+.bandrow {
+  padding-top: 5px;
+  border: 2px solid red;
+}
+.avatar {
+  border: 2px solid green;
+}
+.bandchat {
+  border: 5px solid brown;
+}
+.bandmessage {
+  border: 2px solid orange;
+}

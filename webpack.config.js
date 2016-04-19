@@ -6,7 +6,7 @@ const path = require("path");
 
 module.exports = {
   entry: {
-    app: './app.js'
+    app: './client.js'
   },
   // Punto de entrada para construir los scripts
   output: {
